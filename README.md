@@ -1,8 +1,8 @@
 
 
-[Fyr WebApp][https://fyrwatch.web.app/]
-# ![fyrwatch_app](./Asset.png)
 
+# ![fyrwatch_app](./Asset.png)
+## [Live Preview](https://fyrwatch.web.app/)
 ## A Flutter Web App for the Fyrwatch platform.
 
 **Version: 0.2.0**
