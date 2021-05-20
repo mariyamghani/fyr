@@ -49,4 +49,5 @@ admin.*.map.json
 *.gif
 *.json
 *.firebaserc
-
+*.firebase
+.firebase
