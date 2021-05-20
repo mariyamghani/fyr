@@ -44,3 +44,10 @@ admin.*.map.json
 /android/admin/debug
 /android/admin/profile
 /android/admin/release
+
+first.png
+mockup.gif
+firebase.json
+.firebaserc
+Asset.png
+assets/
