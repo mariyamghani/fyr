@@ -45,9 +45,9 @@ admin.*.map.json
 /android/admin/profile
 /android/admin/release
 
-first.png
-mockup.gif
-firebase.json
-.firebaserc
-Asset.png
-assets/
+/first.png
+/mockup.gif
+/firebase.json
+/.firebaserc
+/Asset.png
+/assets/
